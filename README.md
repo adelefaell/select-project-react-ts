@@ -1,6 +1,6 @@
 # React-TS_selectProject
 
-Live URL: [Multi/Select Project](https://select-project-react-ts.netlify.app/)
+Live URL: [Multi/Select Project](https://select-project-react-ts.github.io/)
 
 
 ### Preview
