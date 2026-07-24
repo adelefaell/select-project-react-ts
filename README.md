@@ -1,6 +1,6 @@
 # React-TS_selectProject
 
-Live URL: [Multi/Select Project](https://select-project-react-ts.github.io/)
+Live URL: [Multi/Select Project](https://adelefaell.github.io/select-project-react-ts/)
 
 
 ### Preview
